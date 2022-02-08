@@ -1,0 +1,1 @@
+The starting repository for "Getting started with Apollo and GraphQL".
